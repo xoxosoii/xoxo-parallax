@@ -1,2 +1,0 @@
-# xoxo-parallax
-parallax ani
